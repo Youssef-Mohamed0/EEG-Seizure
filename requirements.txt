@@ -1,0 +1,10 @@
+# versions this patch set was tested with (Python 3.12+)
+fastapi==0.165.0
+uvicorn==0.54.0
+pydantic==2.14.3
+pandas==3.0.6
+numpy==2.5.4
+scikit-learn==1.9.1
+joblib==1.6.0
+# only needed to re-download the Kaggle CSV:
+kagglehub
