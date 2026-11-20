@@ -1,4 +1,4 @@
-# Workout Coach AI (SmartGym AI)
+# Workout Coach AI
 
 > **Dual-Track Real-Time Biomechanics & Classical ML Fitness Lab** — Combining browser-based **MediaPipe Pose** computer vision with a multi-stage **Scikit-Learn** pipeline trained on 973 real Kaggle gym member records.
 
